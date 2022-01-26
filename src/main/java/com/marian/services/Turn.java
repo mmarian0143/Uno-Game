@@ -18,6 +18,9 @@ public class Turn {
 	private Cards cardPlayed;
 	private int turns = 0;
 	private Cards topDiscard;
+	int previousPlayer;
+	boolean draw;
+	
 	
 
 	public ArrayList<Hand> getHands() {
