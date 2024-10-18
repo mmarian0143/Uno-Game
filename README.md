@@ -3,6 +3,7 @@
 This Uno Game application was developed as part of a course project at Grand Canyon University. It features backend game logic and an API built with Java, while the front-end is created using JavaScript, HTML, and CSS. The game is deployed to Heroku, allowing players to enjoy the Uno experience from anywhere.
 
 **Technology Used**
+
 Backend: Java (Game logic, API)
 Front-End: JavaScript, HTML, CSS
 API: REST API to handle game state and player moves
